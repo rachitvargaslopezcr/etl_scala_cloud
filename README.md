@@ -1,0 +1,2 @@
+# Descripción del Proyecto
+Proyecto ETL en Scala con Spark que extrae datos desde MySQL, aplica transformaciones simples (filtros y cálculos) y los carga en otra tabla dentro de la misma base de datos.
